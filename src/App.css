@@ -1,0 +1,34 @@
+
+#Heading{
+  font-weight: 650;
+  margin: 30px;
+  border: solid;
+
+}
+
+input{
+   
+   width: 100%;
+   
+}
+ 
+.itemContainer{
+    text-align: left;
+    
+    
+}
+
+.cssRow
+{
+    margin:10px 5px;
+}
+
+
+.cssButton
+{
+    min-width: 100px;
+    margin-left: 99px;
+    border-radius: 5px;
+ 
+    
+}
